@@ -5,4 +5,4 @@
 3. header change
 4. change background color
 5. read me file
-6. 
+6. favicon
